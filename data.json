@@ -1,0 +1,18 @@
+{
+	"people" : [
+		{
+			"name" : "Nayan",
+			"city" : "Lakhimpur"
+		},
+
+		{
+			"name" : "Golu",
+			"city" : "Sitapur"
+		},
+
+		{
+			"name" : "Ayush",
+			"city" : "Allahabad"
+		}
+]
+}
